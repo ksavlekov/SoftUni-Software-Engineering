@@ -1,1 +1,1 @@
-All projects in SoftUni I met is here.
+All projects in SoftUni I met are here.
